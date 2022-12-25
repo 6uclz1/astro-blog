@@ -57,7 +57,6 @@ module.exports = {
       },
       transparent: "transparent",
     },
-    // },
   },
   plugins: [require("@tailwindcss/typography")],
 };
